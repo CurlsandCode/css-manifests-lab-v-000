@@ -11,9 +11,9 @@
  * It is generally better to create a new file per style scope.
  *
  /*
-*= require pages
-*= require blogs
+*= posts
+*= require jquery-addon
 *= require bootstrap-addon
-*= require hidden_styles
-*= require
+*= require blogs
+
 */
